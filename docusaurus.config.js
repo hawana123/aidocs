@@ -7,23 +7,23 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula')
 const tailwindPlugin = require('./plugins/tailwind-plugin.cjs')
 
 const config = {
-  title: 'AI教程',
+  title: 'Learning Prompt',
   tagline: 'Free Prompt Engineering and Midjourney tutorial.',
-  url: 'https://learningpromt.wiki',
+  url: 'https://ai.zoz.la',
   baseUrl: '/',
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'thinkingjimmy',
-  projectName: 'ai.github.io',
+  projectName: 'hawana123.github.io',
   trailingSlash: false,
-  deploymentBranch: 'gh-pages',
+  deploymentBranch: 'main',
 
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
   // to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: 'en',
+    defaultLocale: 'zh-Hans',
     locales: ['en', 'zh-Hans'],
     localeConfigs: {
       zh: {
