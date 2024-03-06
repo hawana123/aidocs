@@ -78,7 +78,7 @@ const config = {
         isCloseable: false,
       },
       navbar: {
-        title: 'Learning Prompt',
+        title: 'Learning Prompt 22',
         logo: {
           alt: 'Learning Prompt logo',
           src: 'img/logo.svg',
@@ -93,7 +93,7 @@ const config = {
 
           {
             type: 'doc',
-            docId: 'welcome',
+            docId: 'welcome2',
             position: 'left',
             label: '👋 Welcome',
           },
