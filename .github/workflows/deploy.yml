@@ -36,7 +36,6 @@ jobs:
         env:
           USE_SSH: true
         run: |
-          echo ${{ secrets.GH_PAGES_DEPLOY }}
           git config --global user.email "neeleon@126.com"
           git config --global user.name "hawana123"
           npm ci
