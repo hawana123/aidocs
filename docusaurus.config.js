@@ -15,7 +15,7 @@ const config = {
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'hawana123',
-  projectName: 'aidoc',
+  projectName: 'aidocs',
   trailingSlash: false,
   deploymentBranch: 'main',
 
