@@ -7,15 +7,15 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula')
 const tailwindPlugin = require('./plugins/tailwind-plugin.cjs')
 
 const config = {
-  title: 'Learning Prompt',
+  title: 'AI学习 AI教程',
   tagline: 'Free Prompt Engineering and Midjourney tutorial.',
   url: 'https://ai.zoz.la',
   baseUrl: '/',
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'thinkingjimmy',
-  projectName: 'hawana123.github.io',
+  organizationName: 'hawana123',
+  projectName: 'aidoc',
   trailingSlash: false,
   deploymentBranch: 'main',
 
