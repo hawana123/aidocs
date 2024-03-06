@@ -93,7 +93,7 @@ const config = {
 
           {
             type: 'doc',
-            docId: 'welcome2',
+            docId: 'welcome',
             position: 'left',
             label: '👋 Welcome',
           },
