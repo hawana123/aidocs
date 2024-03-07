@@ -32,7 +32,7 @@ export default function HeroSection() {
               href="/docs"
               className="rounded-sm bg-primary px-12 py-2.5 text-center font-semibold text-white hover:text-white"
             >
-              Start Learning
+              开始学习
             </Link>
           </div>
         </div>

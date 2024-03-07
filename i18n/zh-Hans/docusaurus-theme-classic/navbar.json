@@ -1,6 +1,6 @@
 {
   "title": {
-    "message": "Learning Prompt",
+    "message": "AI学习教程",
     "description": "The title in the navbar"
   },
   "logo.alt": {
@@ -24,11 +24,11 @@
     "description": "Navbar item with label 📰 Changelog"
   },
   "item.label.😎 About Me": {
-    "message": "😎 关于我",
+    "message": "😎 关于",
     "description": "Navbar item with label 😎 About Me"
   },
   "item.label.🤖 AI 101": {
-    "message": "🤖 AI 101",
+    "message": "🤖 AI 教程",
     "description": "Navbar item with label 🤖 AI 101"
   }
 }

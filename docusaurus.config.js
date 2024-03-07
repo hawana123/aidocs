@@ -7,8 +7,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula')
 const tailwindPlugin = require('./plugins/tailwind-plugin.cjs')
 
 const config = {
-  title: 'AI学习 AI教程',
-  tagline: 'Free Prompt Engineering and Midjourney tutorial.',
+  title: 'AI学习 AI教程 Midjourney学习教程 chatgpt学习教程',
+  tagline: 'AI学习 AI教程 Midjourney学习教程 chatgpt学习教程',
   url: 'https://ai.zoz.la',
   baseUrl: '/',
   onBrokenLinks: 'warn',
@@ -17,7 +17,7 @@ const config = {
   organizationName: 'hawana123',
   projectName: 'aidocs',
   trailingSlash: false,
-  deploymentBranch: 'main',
+  deploymentBranch: 'gh-pages',
 
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
@@ -72,7 +72,7 @@ const config = {
       metadata: [{name: 'keywords', content: 'AI, Prompt Engineering, GPT-3, ChatGPT, Midjourney, Learning Prompt, AI, How to use Midjourney, How to use ChatGPT'}],
       announcementBar: {
         content:
-          '⭐ If you have any questions, feel free to join our <a target="_blank" href="https://discord.gg/B7Z7wjuUPg">Discord</a>.⭐',
+          '⭐ windows12网页版 <a target="_blank" href="https://win12.zoz.la">立即体验</a>.⭐',
         backgroundColor: '#fafbfc',
         textColor: '#091E42',
         isCloseable: false,
