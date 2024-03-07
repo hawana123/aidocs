@@ -117,8 +117,8 @@ const config = {
           },
           { to: '/blog', label: '📰 Changelog', position: 'left' },
           {
-            href: '#',
-            label: '😎 About',
+            href: 'https://zoz.la',
+            label: '😎 About Me',
             position: 'right',
           },
           {
