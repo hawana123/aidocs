@@ -78,7 +78,7 @@ const config = {
         isCloseable: false,
       },
       navbar: {
-        title: 'Learning Prompt 22',
+        title: 'Learning ai',
         logo: {
           alt: 'Learning Prompt logo',
           src: 'img/logo.svg',
@@ -117,19 +117,13 @@ const config = {
           },
           { to: '/blog', label: '📰 Changelog', position: 'left' },
           {
-            href: 'https://jimmywong.bio/',
-            label: '😎 About Me',
+            href: '#',
+            label: '😎 About',
             position: 'right',
           },
           {
             type: 'localeDropdown',
             position: 'right',
-          },
-          {
-            href: 'https://github.com/thinkingjimmy/Learning-Prompt',
-            position: 'right',
-            className: 'header-github-link',
-            'aria-label': 'GitHub repository',
           },
         ],
       },

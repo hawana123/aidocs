@@ -11,19 +11,9 @@ function PoleStarChat({ position }) {
     <a className={clsx(styles.container, styles.backgroundPurple)}>
       <p className={styles.tagline}>
         <strong className={styles.title}>
-          <Translate>Tired of complex AI?</Translate>
+          <Translate>blank</Translate>
         </strong>
-        <Translate>Try our simple, user-friendly product:</Translate>
-        <a
-          href={`https://github.com/thinkingjimmy/PoleStarChat`}
-          target="_blank"
-          className={styles.sidebarad}
-        >
-          <u> PoleStar Chat</u>
-        </a>
-        <Translate>
-          . Our product brings AI to the masses - no tech skills required.
-        </Translate>
+        <Translate>blank</Translate>
       </p>
     </a>
   )
