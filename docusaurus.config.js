@@ -132,6 +132,12 @@ const config = {
         darkTheme: darkCodeTheme,
       },
     }),
+  scripts: [
+    {
+      src: 'https://hm.baidu.com/hm.js?dfd34a883e2aeaf786901ebdae84d93f',
+      async: true
+    }
+  ],
 }
 
 module.exports = config

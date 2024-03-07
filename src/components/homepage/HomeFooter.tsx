@@ -36,15 +36,6 @@ export default function HomeFooter() {
                 'mx-auto flex max-w-7xl flex-col gap-4 px-10 pt-1 pb-8 lg:flex-row lg:items-center lg:gap-8'
             )}
         ></div>
-      <script>
-          var _hmt = _hmt || [];
-          (function() {
-          var hm = document.createElement("script");
-          hm.src = "https://hm.baidu.com/hm.js?dfd34a883e2aeaf786901ebdae84d93f";
-          var s = document.getElementsByTagName("script")[0];
-          s.parentNode.insertBefore(hm, s);
-      })();
-      </script>
       </footer>
   )
 }
