@@ -66,8 +66,4 @@ OpenAI is a lab that studies something called artificial intelligence, which is 
 
 关于这个技巧的应用，以及如何更好地使用 AI 提升写作能力，建议各位阅读 Nat Eliason 的 [Using ChatGPT as a Writing Coach](https://blog.nateliason.com/p/chatgpt-writing-coach)，他使用 ChatGPT 辅助其写作，就用到了上述的技巧。
 
-## One More Thing
 
-增加 Role 能极大地提升 AI 回答的准确性，但写好 Role 并不简单。而且在日常的使用中，你可能需要用到多个不同 Role 的 Prompt，比如学习要用到的老师，还有翻译所需要的翻译助手等等，在 ChatGPT 上频繁切换不同的 Prompt 可能不太方便，为了解决这两个问题，我们开发的 [PoleStar Chat](https://github.com/thinkingjimmy/PoleStarChat) 支持 100 多个已预设好 Role Prompt 的 AI Bot，涵盖教育、写作、娱乐等主题，你可以像使用其他 IM 软件一样，使用 @ 的方式快速调用 AI 指令，比如你可以 @ 塔罗牌大师给你测试今日运势，这样你就不用去学习和设置繁琐的 AI Prompt：
-
-![Alt text](assets/polestarchat-bot.png)

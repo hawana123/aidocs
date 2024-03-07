@@ -57,20 +57,7 @@ When reading:
 
 I'll credit all helpers on the Thank You page! 😁
 
-## Check out my other stuff
 
-My friends and I also built an AI app. If ChatGPT doesn't work for you, try our [PoleStar Chat](https://github.com/thinkingjimmy/PoleStarChat):
-
-![PoleStar_banner-3c6138a5d0d8c70b44e04d2a88d06cd0](https://github.com/thinkingjimmy/Learning-Prompt/assets/37492595/c0da7ec8-db42-4918-8854-cd8e105e9701)
-
-
-## Licenses
-
-This tutorial is licensed under the Creative Commons Attribution-NonCommercial 4.0 license.
-
-You are free to read, share, and modify this book as long as you keep the original author attribution and non-commercial license.
-
-Please see [this site](https://creativecommons.org/licenses/by-nc/4.0/) for detailed legal terms.
 
 ## Special Thanks
 
