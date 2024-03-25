@@ -72,7 +72,7 @@ const config = {
       metadata: [{name: 'keywords', content: 'AI, Prompt Engineering, GPT-3, ChatGPT, Midjourney, Learning Prompt, AI, How to use Midjourney, How to use ChatGPT'}],
       announcementBar: {
         content:
-          '⭐ windows12网页版 <a target="_blank" href="https://win12.zoz.la">立即体验</a>.⭐',
+          '⭐ 头像魔法师 <a target="_blank" href="https://av.zoz.la">立即体验</a>.⭐',
         backgroundColor: '#fafbfc',
         textColor: '#091E42',
         isCloseable: false,
