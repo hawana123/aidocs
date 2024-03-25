@@ -9,7 +9,7 @@ const tailwindPlugin = require('./plugins/tailwind-plugin.cjs')
 const config = {
   title: 'AI学习 AI教程 Midjourney学习教程 chatgpt学习教程',
   tagline: 'AI学习 AI教程 Midjourney学习教程 chatgpt学习教程',
-  url: 'https://ai.zoz.la',
+  url: 'https://zoz.la',
   baseUrl: '/',
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
