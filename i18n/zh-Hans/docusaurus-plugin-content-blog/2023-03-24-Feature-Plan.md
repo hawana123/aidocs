@@ -5,9 +5,6 @@ tags: [feature, release]
 
 👋 Hello 各位朋友
 
-截止到 2023 年 3 月 24 日，这个教程在 Github 上已经有 500 多 个 star 了。感谢各位朋友的支持。
-
-从这周开始，网站除了保证内容的更新外，还会每周更新一篇我的实践，希望各位能和我一起探索 AI 的各种应用 😁
 
 最近收到一些朋友的疑问，我在这统一回答一下。
 
@@ -31,11 +28,5 @@ tags: [feature, release]
 
 ---
 
-也欢迎各位通过以下社交平台关注我：
-
-- [即刻](https://web.okjike.com/u/1CC74CB0-B6D3-4247-AC48-5C33E8983723)：这是我的个人号，不定期分享 AI 相关的信息。
-- [小红书](https://www.xiaohongshu.com/user/profile/6073d38d00000000010068a6?xhsshare=CopyLink&appuid=6073d38d00000000010068a6&apptime=1679646639)：这个账号主要是分享一些 AI 使用技巧。
-
 Keep Learning & Keep Building
 
-Jimmy
