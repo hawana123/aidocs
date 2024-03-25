@@ -2,9 +2,6 @@
 sidebar_position: 2
 ---
 # 🧑‍🎨 Artist List
-
-这个 List 里的内容，我会在我的[小红书账号](https://www.xiaohongshu.com/user/profile/6073d38d00000000010068a6?xhsshare=CopyLink&appuid=6073d38d00000000010068a6&apptime=1679646639)上同步更新。感兴趣的朋友可以去关注下。
-
 :::info
 
 这份列表并不是我原创的，来自 Midjourney [官方社区的分享](https://docs.google.com/spreadsheets/d/1e2MZ1K6WMTUuxlPAQ_2A0rz-H55NBykb66TY7DuerVg/edit#gid=471187713)，感谢社区。另外，目前这个表格正在编辑中，会补充图片和介绍。后续会逐步补充（也有可能换个工具来记录，目前这个文档工具，对表格支持得不太好）。🚧

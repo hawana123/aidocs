@@ -3,7 +3,6 @@ sidebar_position: 3
 ---
 # 🏞️ Photographers List
 
-这个 List 里的内容，我会在我的[小红书账号](https://www.xiaohongshu.com/user/profile/6073d38d00000000010068a6?xhsshare=CopyLink&appuid=6073d38d00000000010068a6&apptime=1679646639)上同步更新。感兴趣的朋友可以去关注下。
 
 :::info
 

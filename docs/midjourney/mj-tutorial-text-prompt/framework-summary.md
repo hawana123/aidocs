@@ -8,8 +8,6 @@ After covering various topics, we've gone through the key elements of the text p
 
 ## Official Framework
 
-First, Midjourney's [official framework](https://docs.google.com/document/d/e/2PACX-1vRHOxyEb-ERGi-BdZM8Z_piEP54m4HwO0z8scjmEurEp2UZVA6rFxvyKd15elYVHUWfP1oSA4CQFwxr/pub?utm_source=docs.google.com&utm_medium=tutorial&utm_campaign=midjourney)：
-
 ![MJ069.png](https://res.craft.do/user/full/d845172f-becd-4255-bf79-d722098b2d83/doc/15EA26B6-9B49-4076-B8D8-DFE53ABD52C8/70060242-A0D1-428F-B37F-99C1C5F67B80_2/1yZ5MH29LEiastmkyqX9BCQIBXOu7yJXR9d9DGXWtyEz/MJ069.png)
 
 It's simple, with four sections:

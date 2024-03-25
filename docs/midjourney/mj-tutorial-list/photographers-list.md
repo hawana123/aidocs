@@ -4,8 +4,6 @@ sidebar_position: 3
 
 # 🏞️ Photographers List
 
-> For length I won't cover many styles here, but I'll share more on my [Twitter](https://twitter.com/hellojimmywong) - follow me there for updates.
-
 :::info
 
 This list is not my original work, but compiled and shared by the Midjourney [official community](https://docs.google.com/spreadsheets/d/1fFgHH_kUhu-TTR8aRxnzJScDaUA8WYbRejLjD19NhM0/edit#gid=1033747349) - thanks to them! It's still a work in progress with images and descriptions to be added. I'll supplement it gradually (possibly switch tools since this doc tool doesn't handle tables well). 🚧
