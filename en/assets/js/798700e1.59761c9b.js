@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkribir_website=self.webpackChunkribir_website||[]).push([[8235],{1263:e=>{e.exports=JSON.parse('{"permalink":"/en/blog/tags/changelog","page":1,"postsPerPage":6,"totalPages":1,"totalCount":3,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
