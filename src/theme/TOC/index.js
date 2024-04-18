@@ -11,8 +11,19 @@ const LINK_ACTIVE_CLASS_NAME = 'table-of-contents__link--active'
 function TOC({ className, ...props }) {
   return (
     <div className={clsx(styles.tableOfContents, 'thin-scrollbar', className)}>
-      <div className="margin--md">
-        <SidebarAd position="table_of_contents" />
+      <div className={clsx(styles.adsense, 'margin--md')}>
+          <script async
+                  src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7361597277581518"
+                  crossOrigin="anonymous"></script>
+          <ins className="adsbygoogle"
+               style="display:block"
+               data-ad-client="ca-pub-7361597277581518"
+               data-ad-slot="1290343947"
+               data-ad-format="auto"
+               data-full-width-responsive="true"></ins>
+          <script>
+              (adsbygoogle = window.adsbygoogle || []).push({});
+          </script>
       </div>
       <h3
         className="padding-left--md padding-top--md margin-bottom--none"

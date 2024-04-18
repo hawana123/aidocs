@@ -27,3 +27,9 @@
   justify-content: center;
   gap: 1rem;
 }
+
+.adsense {
+  #background-color: yellow;
+  height: 16rem;
+  width: 80%;
+}
