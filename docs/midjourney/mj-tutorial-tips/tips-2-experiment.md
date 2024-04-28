@@ -6,7 +6,7 @@ sidebar_position: 2
 
 The above example also demonstrates a second technique - experimenting.
 
-When you get unexpected results, don't panic. Analyze the issues, then systematically adjust the prompts. Be patient. In the prompt above, there's one part I'm not sure you noticed - the "stock photo" at the beginning. What happens if you remove those words?
+When you get unexpected results, don't panic. Analyze the issues,then systematically adjust the prompts. Be patient. In the prompt above, there's one part I'm not sure you noticed - the "stock photo" at the beginning. What happens if you remove those words?
 
 ```other
 two Asian men in suits shaking hands,say goodbye in front of the main entrance of the office building, focus on two hands, taken with Canon, background bokeh
