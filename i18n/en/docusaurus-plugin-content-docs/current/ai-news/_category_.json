@@ -1,0 +1,8 @@
+{
+  "label": "📰 AI News & Trends",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "Track the latest developments and trends in the AI industry."
+  }
+}

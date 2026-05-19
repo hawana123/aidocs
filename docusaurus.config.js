@@ -7,9 +7,9 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula')
 const tailwindPlugin = require('./plugins/tailwind-plugin.cjs')
 
 const config = {
-  title: 'AI学习 AI教程 Midjourney学习教程 chatgpt学习教程',
-  tagline: 'AI学习 AI教程 Midjourney学习教程 chatgpt学习教程',
-  url: 'https://zoz.la',
+  title: 'AI全明星 AI ALL STAR',
+  tagline: 'AI全明星 AI ALL STAR',
+  url: 'https://xp58.xyz',
   baseUrl: '/',
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
@@ -74,9 +74,9 @@ const config = {
         isCloseable: false,
       },
       navbar: {
-        title: 'Learning ai',
+        title: 'AI ALL STAR',
         logo: {
-          alt: 'Learning Prompt logo',
+          alt: 'AI ALL STAR logo',
           src: 'img/logo.svg',
         },
         items: [
@@ -111,9 +111,33 @@ const config = {
             docId: 'midjourney-learning-path',
             label: '🖼️ Midjourney',
           },
+          {
+            type: 'doc',
+            docId: 'ai-tools/index',
+            position: 'left',
+            label: '🛠️ AI Tools',
+          },
+          {
+            type: 'doc',
+            docId: 'ai-news/index',
+            position: 'left',
+            label: '📰 AI News',
+          },
+          {
+            type: 'doc',
+            docId: 'ai-scenarios/index',
+            position: 'left',
+            label: '🎯 AI Scenarios',
+          },
+          {
+            type: 'doc',
+            docId: 'ai-coding/index',
+            position: 'left',
+            label: '💻 AI Coding',
+          },
           { to: '/blog', label: '📰 Changelog', position: 'left' },
           {
-            href: 'https://zoz.la',
+            href: 'https://xp58.xyz',
             label: '😎 About Me',
             position: 'right',
           },
