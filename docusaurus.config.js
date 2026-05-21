@@ -17,7 +17,7 @@ const config = {
   organizationName: 'hawana123',
   projectName: 'aidocs',
   trailingSlash: false,
-  deploymentBranch: 'gh-pages',
+  deploymentBranch: 'main',
 
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
@@ -26,7 +26,7 @@ const config = {
     defaultLocale: 'zh-Hans',
     locales: ['en', 'zh-Hans'],
     localeConfigs: {
-      zh: {
+      'zh-Hans': {
         htmlLang: 'zh-Hans',
       },
       en: {
@@ -46,7 +46,7 @@ const config = {
         },
         blog: {
           showReadingTime: true,
-          postsPerPage: 6,
+          postsPerPage: 50,
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -115,31 +115,38 @@ const config = {
             type: 'doc',
             docId: 'ai-tools/index',
             position: 'left',
-            label: '🛠️ AI Tools',
+            label: '🛠️ AI 工具',
           },
           {
             type: 'doc',
             docId: 'ai-news/index',
             position: 'left',
-            label: '📰 AI News',
+            label: ' AI 新闻',
           },
           {
             type: 'doc',
             docId: 'ai-scenarios/index',
             position: 'left',
-            label: '🎯 AI Scenarios',
+            label: '🎯 AI 应用场景',
           },
           {
             type: 'doc',
             docId: 'ai-coding/index',
             position: 'left',
-            label: '💻 AI Coding',
+            label: '💻 AI 编程',
+          },
+          {
+            type: 'doc',
+            docId: 'ai-agent-skills/index',
+            position: 'left',
+            label: '🤖 AI Agent',
           },
           { to: '/blog', label: '📰 Changelog', position: 'left' },
           {
-            href: 'https://xp58.xyz',
-            label: '😎 About Me',
+            type: 'doc',
+            docId: 'about',
             position: 'right',
+            label: '😎 About',
           },
           {
             type: 'localeDropdown',
@@ -156,12 +163,12 @@ const config = {
     {
       src: 'https://hm.baidu.com/hm.js?dfd34a883e2aeaf786901ebdae84d93f',
       async: true
-    },
-    {
-      src: 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7361597277581518',
-      async: true,
-      crossOrigin: 'anonymous'
     }
+    //,{
+    //  src: 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-xxxx',
+    //  async: true,
+   //   crossOrigin: 'anonymous'
+    //}
   ],
 }
 

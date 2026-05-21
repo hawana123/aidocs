@@ -1,6 +1,6 @@
 {
   "title": {
-    "message": "AI学习教程",
+    "message": "AI全明星",
     "description": "The title in the navbar"
   },
   "logo.alt": {
@@ -12,11 +12,11 @@
     "description": "Navbar item with label 👋 Welcome"
   },
   "item.label.💬 ChatGPT": {
-    "message": "💬 ChatGPT 教程",
+    "message": "💬 ChatGPT教程",
     "description": "Navbar item with label 💬 ChatGPT"
   },
   "item.label.🖼️ Midjourney": {
-    "message": "🖼️ Midjourney 教程",
+    "message": "🖼️ Midjourney教程",
     "description": "Navbar item with label 🖼️ Midjourney"
   },
   "item.label.📰 Changelog": {
@@ -28,7 +28,23 @@
     "description": "Navbar item with label 😎 About Me"
   },
   "item.label.🤖 AI 101": {
-    "message": "🤖 AI 教程",
+    "message": "🤖 AI教程",
     "description": "Navbar item with label 🤖 AI 101"
+  },
+  "item.label.🛠️ AI Tools": {
+    "message": "🛠️ AI工具",
+    "description": "Navbar item with label 🛠️ AI Tools"
+  },
+  "item.label.📰 AI News": {
+    "message": "📰 AI新闻",
+    "description": "Navbar item with label 📰 AI News"
+  },
+  "item.label.🎯 AI Scenarios": {
+    "message": "🎯 AI场景",
+    "description": "Navbar item with label 🎯 AI Scenarios"
+  },
+  "item.label.💻 AI Coding": {
+    "message": "💻 AI编程",
+    "description": "Navbar item with label 💻 AI Coding"
   }
 }

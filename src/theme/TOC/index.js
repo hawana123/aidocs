@@ -13,12 +13,12 @@ function TOC({ className, ...props }) {
     <div className={clsx(styles.tableOfContents, 'thin-scrollbar', className)}>
       <div className={clsx(styles.adsense, 'margin--md')}>
           <script async
-                  src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7361597277581518"
+                  src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-xxxx"
                   crossOrigin="anonymous"></script>
           <ins className="adsbygoogle"
-               style="display:block"
-               data-ad-client="ca-pub-7361597277581518"
-               data-ad-slot="1290343947"
+               style={{display: 'block'}}
+               data-ad-client="ca-pub-xxxx"
+               data-ad-slot="xxxxx"
                data-ad-format="auto"
                data-full-width-responsive="true"></ins>
           <script>

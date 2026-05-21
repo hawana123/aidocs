@@ -311,5 +311,20 @@
   },
   "blank": {
     "message": ""
+  },
+  "sidebar.welcome.category.💡 Insights and Sharing": {
+    "message": "💡 心得分享"
+  },
+  "sidebar.welcome.category.📚 Recommendations": {
+    "message": "📚 推荐"
+  },
+  "sidebar.chatGPT.category.😎 Fundamentals": {
+    "message": "😎 基础"
+  },
+  "sidebar.chatGPT.category.🚀 Advanced": {
+    "message": "🚀 进阶"
+  },
+  "sidebar.chatGPT.category.🗒️ Tips": {
+    "message": "🗒️ 技巧"
   }
 }
