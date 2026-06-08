@@ -164,11 +164,11 @@ const config = {
       src: 'https://hm.baidu.com/hm.js?dfd34a883e2aeaf786901ebdae84d93f',
       async: true
     }
-    //,{
-    //  src: 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-xxxx',
-    //  async: true,
-   //   crossOrigin: 'anonymous'
-    //}
+    ,{
+     src: 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7361597277581518',
+     async: true,
+     crossOrigin: 'anonymous'
+    }
   ],
 }
 
