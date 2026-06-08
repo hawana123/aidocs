@@ -9,7 +9,7 @@ const tailwindPlugin = require('./plugins/tailwind-plugin.cjs')
 const config = {
   title: 'AI全明星 AI ALL STAR',
   tagline: 'AI全明星 AI ALL STAR',
-  url: 'https://xp58.xyz',
+  url: 'https://ai.zoz.la',
   baseUrl: '/',
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
